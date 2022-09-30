@@ -43,3 +43,9 @@ h1{
     font-family: 'fantacy', monospace;
     font-weight: normal;
 }
+.info a {
+    color: lightgreen;
+    font-family: 'fantacy', monospace;
+    font-weight: bold;
+}
+
